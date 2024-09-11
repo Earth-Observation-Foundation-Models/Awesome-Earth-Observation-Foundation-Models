@@ -1,6 +1,6 @@
 <h1 align="center">Awesome-Earth-Observation-Foundation-Models</h2>
 
-Integrate remote sensing and weather models to explore future Earth modeling.
+A awesome collection of papers on Earth Observation Foundation Models (EOFMs), integrated remote sensing and weather models to explore future Earth modeling.
 
 <h2 align="center">Datasets</h2>
 
