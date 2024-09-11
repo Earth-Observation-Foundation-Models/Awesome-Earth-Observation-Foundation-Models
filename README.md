@@ -1,4 +1,8 @@
-<h1 align="center">Awesome Earth Observation Foundation Models</h2>
+<h1 align="center">Awesome Earth Observation Foundation Models</h1>
+
+<p align="center">
+<a href="http://arxiv.org/abs/2408.09110"><img src="https://img.shields.io/badge/arXiv-Paper-<color>"></a>
+</p>
 
 A awesome collection of papers on Earth Observation Foundation Models (EOFMs), integrated remote sensing and weather models to explore future Earth modeling.
 
