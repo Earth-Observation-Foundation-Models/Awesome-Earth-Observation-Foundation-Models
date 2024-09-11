@@ -1,4 +1,4 @@
-<h1 align="center">Awesome-Earth-Observation-Foundation-Models</h2>
+<h1 align="center">Awesome Earth Observation Foundation Models</h2>
 
 A awesome collection of papers on Earth Observation Foundation Models (EOFMs), integrated remote sensing and weather models to explore future Earth modeling.
 
